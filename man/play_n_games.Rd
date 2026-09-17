@@ -4,7 +4,7 @@
 \alias{play_n_games}
 \title{Play multiple Monty Hall games.}
 \usage{
-play_n_games(n = 100)
+play_n_games(n = 5)
 }
 \arguments{
 \item{n}{A numeric value indicating the number of games

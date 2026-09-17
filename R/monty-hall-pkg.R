@@ -259,7 +259,7 @@ play_game <- function( )
 #'   play_n_games( n=100 )
 #'
 #' @export
-play_n_games <- function( n=100 )
+play_n_games <- function( n=5 )
 {
   
   library( dplyr )
