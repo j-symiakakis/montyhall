@@ -256,10 +256,10 @@ play_game <- function( )
 #'   strategy and outcome for each game.
 #'
 #' @examples
-#'   play_n_games( n=100 )
+#'   play_n_games( n=5 )
 #'
 #' @export
-play_n_games <- function( n=5 )
+play_n_games <- function( n=100 )
 {
   
   library( dplyr )

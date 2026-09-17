@@ -4,7 +4,7 @@
 \alias{play_n_games}
 \title{Play multiple Monty Hall games.}
 \usage{
-play_n_games(n = 5)
+play_n_games(n = 100)
 }
 \arguments{
 \item{n}{A numeric value indicating the number of games
@@ -22,6 +22,6 @@ The function repeatedly plays the Monty Hall game and
 combines the results for the stay and switch strategies.
 }
 \examples{
-  play_n_games( n=100 )
+  play_n_games( n=5 )
 
 }
