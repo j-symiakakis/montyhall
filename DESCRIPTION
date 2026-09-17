@@ -1,9 +1,11 @@
 Package: montyhall
-Title: What the Package Does (One Line, Title Case)
+Title: Simulate Monty Hall Problem
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Jaclyn", "Symiakakis", , "jsymiaka@asu.edu", role = c("aut", "cre"))
+Description: Simulates the Monty Hall Problem using stay and switch strategies.
+Depends:
+    dplyr
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Config/roxygen2/version: 8.1.0
